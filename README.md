@@ -99,7 +99,7 @@ Error mitigation was applied to evaluate how hardware noise affects QFT outputs.
 
 ```
 ## 📂 Project Structure
-Quantum Fourier Transfrorm/
+Quantum Fourier Transform/
 │── QFT.ipynb # Wave creation and QFT simulations
 │── Error mitigation on QFT.ipynb # # Mitigated vs raw spectra
 │── README.md # Project documentation
